@@ -11,10 +11,6 @@ public class Main {
         ConsultaCambio consultaCambio = new ConsultaCambio();
         int opcao = 0;
 
-//        Cambio meuTeste = consultaCambio.realToAmericanDollar(6.8770);
-//
-//        System.out.println(meuTeste.conversion_result());
-
         while (opcao != 7) {
             System.out.println("=====================================================");
             System.out.println("Seja bem-vindo(a) ao Conversor de Moedas\n");
